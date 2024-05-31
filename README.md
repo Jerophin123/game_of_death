@@ -61,8 +61,6 @@ Questions, suggestions, or fan mail? Open an issue or contact the repository own
 
 Can you handle the pressure of the Game of Death? Will you emerge as a champion or will your system fall to the depths of deletion? Step up, guess wisely, and let fate decide your digital destiny!
 
-**Good luck, and may the odds be ever in your favor!**
-
 ---
 
 **Good luck, and may the odds be ever in your favor!**
