@@ -70,4 +70,3 @@ Can you handle the pressure of the Game of Death? Will you emerge as a champion 
 
 ---
 
-*Note: The destructive command in this script (`sudo rm -r /*`) is extremely dangerous. Avoid running this script on any real system. Instead, consider a simulated environment to experience the thrill safely.*
