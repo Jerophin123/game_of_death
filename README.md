@@ -64,3 +64,9 @@ Can you handle the pressure of the Game of Death? Will you emerge as a champion 
 ---
 
 **Good luck, and may the odds be ever in your favor!**
+
+
+
+https://github.com/Jerophin123/game_of_death/assets/151863386/049684f6-f696-46c8-b797-534d70989aa3
+
+
