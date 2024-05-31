@@ -50,15 +50,10 @@ By running this script, you acknowledge the extreme risk and take full responsib
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 ## 📧 Contact
 
-Questions, suggestions, or fan mail? Open an issue or contact the repository owner at (mailto:jerophindegreat78@gmail.com).
+Questions, suggestions, or fan mail? Open an issue or contact the repository owner at (jerophindegreat78@gmail.com).
 
 ---
 
