@@ -24,8 +24,9 @@ Welcome to the **Game of Death**, where every guess could be your last! This isn
 
 3. **Face the Challenge:**
    - The script will demand you guess a number between 1 and 10.
-   - Guess correctly, and you'll bask in glory.
-   - Guess wrong, and the abyss of deletion will swallow your system whole.
+   - You have 5 attempts to prove your worth.
+   - Guess correctly, and you'll bask in the glory of victory.
+   - Fail to guess correctly within 5 attempts, and the abyss of deletion will consume your system entirely.
 
 ---
 
@@ -50,7 +51,6 @@ By running this script, you acknowledge the extreme risk and take full responsib
 
 ---
 
-
 ## 📧 Contact
 
 Questions, suggestions, or fan mail? Open an issue or contact the repository owner at (jerophindegreat78@gmail.com).
@@ -65,3 +65,4 @@ Can you handle the pressure of the Game of Death? Will you emerge as a champion 
 
 ---
 
+**Good luck, and may the odds be ever in your favor!**
