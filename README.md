@@ -1,4 +1,4 @@
-# 🎲 Game of Death: The Ultimate High-Stakes Guessing Game 🎲
+# 🎲 Game of Death: The Ultimate High-Stakes Guessing Game (English, Tamil) 🎲
 
 ## ☠️ Dare to Play? ☠️
 
