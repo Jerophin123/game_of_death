@@ -21,8 +21,12 @@ Welcome to the **Game of Death**, where every guess could be your last! This isn
    ```bash
    sudo python3 game.py
    ```
+   **In Tamil**
+   ```bash
+   sudo python3 game(T).py
+   ```
 
-3. **Face the Challenge:**
+4. **Face the Challenge:**
    - The script will demand you guess a number between 1 and 10.
    - You have 5 attempts to prove your worth.
    - You cannot quit in the middle.
