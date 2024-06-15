@@ -13,7 +13,7 @@ Welcome to the **Game of Death**, where every guess could be your last! This isn
 
 1. **Enter the Arena:**
    ```bash
-   git clone https://github.com/yourusername/game_of_death.git
+   git clone https://github.com/jerophin123/game_of_death.git
    cd game_of_death
    ```
 
