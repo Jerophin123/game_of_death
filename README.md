@@ -5,7 +5,7 @@
 Welcome to the **Game of Death**, where every guess could be your last! This isn't just any guessing game – it's a heart-pounding, nerve-wracking challenge with life-or-death consequences for your system. Are you brave (or foolish) enough to take the plunge?
 
 ### 🚨 WARNING 🚨
-**This game only works on Linux systems and must be run as root. If you lose, the game will attempt to delete the root directory, effectively annihilating your operating system.**
+**This game only works on UNIX based systems and must be run as root. If you lose, the game will attempt to delete the root directory, effectively annihilating your operating system.**
 
 ---
 
@@ -33,7 +33,7 @@ Welcome to the **Game of Death**, where every guess could be your last! This isn
 
 ## 🔧 Prerequisites
 
-- **Operating System:** Linux
+- **Operating System:** UNIX based operating system
 - **Permissions:** Must be run as root
 - **Python:** Ensure Python 3 is installed
 
