@@ -67,9 +67,9 @@ def main():
     '''
     print(pattern)
 
-    # Check if the script is being run on Linux
-    if platform.system() != "Linux":
-        print("This script can only be run on Linux systems!")
+    # Check if the script is being run on Unix-based systems
+    if platform.system() not in ["Linux", "Darwin"]:  # Darwin is the system name for macOS
+        print("This script can only be run on Unix-based systems!")
         sys.exit(1)
 
     # Check if the script is being run as root
