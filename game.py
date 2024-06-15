@@ -55,6 +55,18 @@ def play_game():
     os.system(command)
 
 def main():
+    # Print the ASCII pattern for "GAME OF DEATH"
+    pattern = '''
+     _______  _______  __   __  _______    _______  _______    ______   _______  _______  _______  __   __ 
+    |       ||   _   ||  |_|  ||       |  |       ||       |  |      | |       ||   _   ||       ||  | |  |
+    |    ___||  |_|  ||       ||    ___|  |   _   ||    ___|  |  _    ||    ___||  |_|  ||_     _||  |_|  |
+    |   | __ |       ||       ||   |___   |  | |  ||   |___   | | |   ||   |___ |       |  |   |  |       |
+    |   ||  ||       ||       ||    ___|  |  |_|  ||    ___|  | |_|   ||    ___||       |  |   |  |       |
+    |   |_| ||   _   || ||_|| ||   |___   |       ||   |      |       ||   |___ |   _   |  |   |  |   _   |
+    |_______||__| |__||_|   |_||_______|  |_______||___|      |______| |_______||__| |__|  |___|  |__| |__|
+    '''
+    print(pattern)
+
     # Check if the script is being run on Linux
     if platform.system() != "Linux":
         print("This script can only be run on Linux systems!")
