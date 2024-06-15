@@ -19,7 +19,7 @@ Welcome to the **Game of Death**, where every guess could be your last! This isn
 
 2. **Prepare for Battle:**
    ```bash
-   sudo python3 game_of_death.py
+   sudo python3 game.py
    ```
 
 3. **Face the Challenge:**
