@@ -25,6 +25,7 @@ Welcome to the **Game of Death**, where every guess could be your last! This isn
 3. **Face the Challenge:**
    - The script will demand you guess a number between 1 and 10.
    - You have 5 attempts to prove your worth.
+   - You cannot leave the game in the middle.
    - Guess correctly, and you'll bask in the glory of victory.
    - Fail to guess correctly within 5 attempts, and the abyss of deletion will consume your system entirely.
 
