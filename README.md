@@ -21,9 +21,9 @@ Welcome to the **Game of Death**, where every guess could be your last! This isn
    ```bash
    sudo python3 game.py
    ```
-   **In Tamil**
+   **In Tamil (BETA)**
    ```bash
-   sudo python3 game(T).py
+   sudo python3 'game(T).py'
    ```
 
 4. **Face the Challenge:**
